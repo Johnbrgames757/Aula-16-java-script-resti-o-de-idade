@@ -1,0 +1,13 @@
+@font-face {
+    font-family: isu;
+    src: url(Puerto-Bold.otf);
+}
+
+body{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    font-family: isu;
+    color: white;
+    
+}

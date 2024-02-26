@@ -1,0 +1,12 @@
+@font-face {
+    font-family: isu;
+    src: url(Puerto-Bold.otf);
+}
+
+body{
+    text-align: center;
+    align-items: center;
+    font-family: isu;
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/058/578/469/large/lewis-lapper-freedom-planet-2-bakunawa-finale.jpg?1674498231);
+    color:white
+}
